@@ -66,19 +66,10 @@
 - Communication Protocols: USB, UART, SPI, I2C, IP, MAVLink
 
 - PCB designing and soldering, 3D printing
-
-
-
-
-
-
-
-
-
-
-
-
 </p>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" alt="sontung1010" /></p>
 
