@@ -40,18 +40,16 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.roku.com/docs/references/brightscript/language/brightscript-language-reference.md" target="_blank" rel="noreferrer"> <img src="brs.png" alt="brightscript" width="40" height="40" /> </a>
 
-
 - Libraries:
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://developer.roku.com/docs/references/scenegraph/component-functions/init.md" target="_blank" rel="noreferrer"> <img src="xml.png" alt="scenegraph" width="40" height="40"/> </a>
 
-
-
-
-
 - Software:
+
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.jpg" alt="solidworks" width="40" height="40"/> </a>
+
 
 - Firmware:
 
