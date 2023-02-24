@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sontung1010&label=Profile%20views&color=0e75b6&style=flat" alt="sontung1010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sontung1010" alt="sontung1010" /></a> </p>
 
 - I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23)
 
