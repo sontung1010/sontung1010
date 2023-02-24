@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
 <h3 align="center">An Embedded Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sontung1010&label=Profile%20views&color=0e75b6&style=flat" alt="sontung1010" /> </p>
-
 
 - I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23)
 
