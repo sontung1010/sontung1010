@@ -49,6 +49,8 @@
 - Software:
 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.jpg" alt="solidworks" width="40" height="40"/> </a>
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="ansys.jpeg" alt="ansys" width="40" height="40"/> </a>
 
 
 - Firmware:
