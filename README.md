@@ -1,3 +1,3 @@
 # Tung (Son) Do
 
-**'Embedded Software Engineer'**
+**`Embedded Software Engineer`**
