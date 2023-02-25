@@ -72,4 +72,4 @@
 #
 
 ### Stats
-![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&theme=github_dark)
+![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&theme=dracula)
