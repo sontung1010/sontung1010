@@ -47,6 +47,7 @@
 
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.jpg" alt="solidworks" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
+<a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
 <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="ansys.jpeg" alt="ansys" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
