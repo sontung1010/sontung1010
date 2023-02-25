@@ -68,6 +68,6 @@
 - PCB designing and soldering, 3D printing
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sontung1010" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&theme=dark&locale=en&layout=compact" alt="sontung1010" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&locale=en" alt="sontung1010" /></p>
