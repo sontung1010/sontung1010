@@ -70,10 +70,4 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" alt="sontung1010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&locale=en" alt="sontung1010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sontung1010&" alt="sontung1010" /></p>
-
+![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&theme=github_dark)
