@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
-<h3 align="center">An Embedded Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 - I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23)
