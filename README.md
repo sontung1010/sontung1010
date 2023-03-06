@@ -4,11 +4,11 @@
 
 - I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23)
 
-- I’m currently learning [Verilog HDL, FPGA](https://github.com/sontung1010/Verilog_HDL_projects.git)
+- I’m currently learning [Computer Science from MITOpenCourseWare](https://ocw.mit.edu/)
 
 - All of my projects are available at [Portfolio Drive](https://drive.google.com/drive/folders/1vaCirOclUbUyTWjyfyp_fD1yUCtyca5a?usp=sharing)
 
-- Ask me about **Embedded Systems, Robotics**
+- Ask me about **Robotics, Artificial Intelligence, Machine Learning, Embedded Systems**
 
 - How to reach me **sontungcodedao@gmail.com**
 
@@ -35,13 +35,11 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.roku.com/docs/references/brightscript/language/brightscript-language-reference.md" target="_blank" rel="noreferrer"> <img src="brs.png" alt="brightscript" width="40" height="40" /> </a>
 
 - Libraries:
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.roku.com/docs/references/scenegraph/component-functions/init.md" target="_blank" rel="noreferrer"> <img src="xml.png" alt="scenegraph" width="40" height="40"/> </a>
 
 - Software:
 
@@ -49,10 +47,6 @@
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
 <a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
-<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="ansys.jpeg" alt="ansys" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://github.com/sontung1010" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-
 
 - Firmware:
 
@@ -64,9 +58,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 
-- Communication Protocols: USB, UART, SPI, I2C, IP, MAVLink
+- Communication Protocols: USB, UART, SPI, I2C, IP
 
-- PCB designing and soldering, 3D printing
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" alt="sontung1010" /></p>
