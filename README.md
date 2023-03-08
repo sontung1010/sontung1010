@@ -36,20 +36,11 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
-- Libraries:
+- Firmware:
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-- Software:
-
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.jpg" alt="solidworks" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
 <a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
-
-- Firmware:
-
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
@@ -57,8 +48,6 @@
 <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-
-- Communication Protocols: USB, UART, SPI, I2C, IP
 
 </p>
 
