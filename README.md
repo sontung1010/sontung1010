@@ -3,9 +3,9 @@
 
 - I'm going to attend the [Master of Science in Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/) in August, 2023
 
-- I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23)
+- I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23) at [Cal Poly](https://ceng.calpoly.edu/connection/2020/01/northrop-grumman-collaboration-project-ngcp-opportunity/)
 
-- I’m currently learning [Computer Science from MITOpenCourseWare](https://ocw.mit.edu/)
+- I’m currently learning Computer Science from [MITOpenCourseWare](https://ocw.mit.edu/)
 
 - All of my projects are available at [Portfolio Drive](https://drive.google.com/drive/folders/1vaCirOclUbUyTWjyfyp_fD1yUCtyca5a?usp=sharing)
 
