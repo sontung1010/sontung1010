@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
 <h3 align="center">Software Engineer</h3>
 
-- I'm going to attend the [Master of Science in Computer Engineering](https://compeng.columbia.edu/) at [Columbia University](https://www.columbia.edu/) in August, 2023
+- I'm going to attend the [Master of Science in Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) in August, 2023
 
 - I’m currently working on [Northrop Grumman Collaboration Project](https://github.com/NGCP22-23) at [Cal Poly](https://ceng.calpoly.edu/connection/2020/01/northrop-grumman-collaboration-project-ngcp-opportunity/)
 
