@@ -3,8 +3,6 @@
 
 - I'm going to attend the [Master of Science in Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) in August, 2023
 
-- I’m currently learning Computer Science from [MITOpenCourseWare](https://ocw.mit.edu/)
-
 - All of my projects are available at [Portfolio Drive](https://drive.google.com/drive/folders/1vaCirOclUbUyTWjyfyp_fD1yUCtyca5a?usp=sharing)
 
 - Ask me about **Robotics, Artificial Intelligence, Machine Learning, Embedded Systems**
