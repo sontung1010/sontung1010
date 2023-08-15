@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Electrical and Computer Engineer with specialization in Robotics</h3>
 
-- I'm going to attend the [Master of Science in Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) in August, 2023
+- I'm doing [my master's degree](https://ece.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) since August, 2023
 
 - All of my projects are available at [Portfolio Drive](https://drive.google.com/drive/folders/1vaCirOclUbUyTWjyfyp_fD1yUCtyca5a?usp=sharing)
 
@@ -25,12 +25,6 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
 <a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 - Firmware:
 
