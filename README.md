@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
-<h3 align="center">M.Sc. ECE - Robotics candidate at University of Michigan, Ann Arbor</h3>
+<h3 align="center">M.Sc. ECE - Robotics candidate</h3>
 
 
-- I am a Research Assistant at the [ROAHM Lab of University of Michigan](https://www.roahmlab.com/)
+- I am a Research Assistant at the [ROAHM Lab of University of Michigan, Ann Arbor](https://www.roahmlab.com/)
 
 - All of my projects are available at [Portfolio](https://www.dropbox.com/scl/fo/0xw4jj6wgoqnwkt7s52gx/h?rlkey=olvnlpnuxm5r7crbx4gn53lwq&dl=0)
 
