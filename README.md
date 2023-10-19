@@ -22,6 +22,9 @@
 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
 <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">_<img src="rviz.png" alt="rviz" height="40"/>_</a>
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer">_<img src="gazebo.png" alt="gazebo" height="40" width="40"/>_</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">_<img src="numpy.png" alt="numpy" height="40" width="40"/>_</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">_<img src="pandas.png" alt="pandas" height="40"/>_</a>
 
 
 - Languages:
