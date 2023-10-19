@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
-<h3 align="center">Electrical and Computer Engineer with specialization in Robotics</h3>
+<h3 align="center">M.Sc. ECE - Robotics candidate at University of Michigan, Ann Arbor</h3>
 
-- I'm doing [my master's degree](https://ece.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) since August, 2023
 
 - I am a Research Assistant at the [ROAHM Lab of University of Michigan](https://www.roahmlab.com/)
 
-- All of my projects are available at [Portfolio Drive](https://drive.google.com/drive/folders/1vaCirOclUbUyTWjyfyp_fD1yUCtyca5a?usp=sharing)
+- All of my projects are available at [Portfolio](https://www.dropbox.com/scl/fo/0xw4jj6wgoqnwkt7s52gx/h?rlkey=olvnlpnuxm5r7crbx4gn53lwq&dl=0)
 
 - Ask me about **Robotics, Embedded Systems, Control Systems, Embedded Software, Electronics, Computers**
 
