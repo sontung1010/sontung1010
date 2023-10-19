@@ -21,7 +21,6 @@
 - Robotics:
 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
-<a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
 
 
 - Languages:
@@ -39,11 +38,11 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a> <img src="mcu.png" alt="microcontroller" width="40" height="40"/> </a>
 <a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">_<img src="esp32.png" alt="esp32" width="40" height="40"/>_</a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">_<img src="esp32.png" alt="esp32" width="40" height="40"/>_</a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 
