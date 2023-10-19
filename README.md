@@ -57,6 +57,7 @@
 
 
 - CAD:
+
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">_<img src="solidworks.png" alt="solidworks" height="40" width="40"/>_</a>
 <a> <img src="3dprinter.jpeg" alt="3d printer" height="40" width="40"/> </a>
 <a href="https://www.ansys.com/" target="_blank" rel="noreferrer">_<img src="ansys.svg" alt="ansys" height="40" width="40"/>_</a>
