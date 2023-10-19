@@ -23,6 +23,7 @@
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
 <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">_<img src="rviz.png" alt="rviz" height="40"/>_</a>
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer">_<img src="gazebo.png" alt="gazebo" height="40" width="40"/>_</a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">_<img src="opencv.png" alt="opencv" height="40" width="40"/>_</a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">_<img src="numpy.png" alt="numpy" height="40" width="40"/>_</a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">_<img src="pandas.png" alt="pandas" height="40"/>_</a>
 
@@ -40,7 +41,8 @@
 - Firmware:
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a>_<img src="mcu.png" alt="microcontroller" width="40" height="40"/>_</a>
+<a> <img src="microcontroller.png" alt="microcontroller" width="40" height="40"/> </a>
+<a> <img src="sbc.png" alt="single board computer" height="40"/> </a>
 <a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
