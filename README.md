@@ -34,7 +34,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-<a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="Matlab.png" alt="matlab" width="40" height="40"/> </a>
 
@@ -43,13 +42,24 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a> <img src="microcontroller.png" alt="microcontroller" width="40" height="40"/> </a>
 <a> <img src="sbc.png" alt="single board computer" height="40"/> </a>
+<a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
+<a> <img src="x86.png" alt="x86" height="40" width="40"/> </a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer">_<img src="archlinux.png" alt="archlinux" height="40" width="40"/>_</a>
 <a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-<a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
-<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">_<img src="esp32.png" alt="esp32" width="40" height="40"/>_</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://riscv.org/" target="_blank" rel="noreferrer">_<img src="riscv.png" alt="risc-v" height="40" width="40"/>_</a>
+<a> <img src="serial.png" alt="serial communication protocols" height="40"/> </a>
+<a> <img src="rtos.png" alt="rtos" height="40" width="40"/> </a>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer">_<img src="ide.png" alt="ide" height="40" width="40"/>_</a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">_<img src="vim.png" alt="vim" height="40" width="40"/>_</a>
+<a> <img src="cli.jpeg" alt="command line" height="40" width="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">_<img src="git.png" alt="git" height="40" width="40"/>_</a>
+<a href="https://www.mathworks.com/products/simulink.html#:~:text=Simulink%20is%20a%20block%20diagram,and%20deploy%20without%20writing%20code." target="_blank" rel="noreferrer">_<img src="simulink.png" alt="simulink" height="40" width="40"/>_</a>
+
+
+- CAD:
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">_<img src="solidworks.png" alt="solidworks" height="40" width="40"/>_</a>
+<a> <img src="3dprinter.jpeg" alt="3d printer" height="40" width="40"/> </a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer">_<img src="ansys.svg" alt="ansys" height="40" width="40"/>_</a>
 
 
 </p>
