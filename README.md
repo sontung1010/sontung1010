@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tung (Son) Do</h1>
+<h1 align="center">Hi 👋, I'm Tung Do</h1>
 <h3 align="center">M.Sc. ECE - Robotics candidate</h3>
 
 
@@ -6,7 +6,7 @@
 
 - All of my projects are available at [Portfolio](https://www.dropbox.com/scl/fo/0xw4jj6wgoqnwkt7s52gx/h?rlkey=olvnlpnuxm5r7crbx4gn53lwq&dl=0)
 
-- Ask me about **Robotics, Embedded Systems, Control Systems, Embedded Software, Electronics, Computers**
+- Ask me about **Robotics, Embedded Systems, Control Systems, Embedded Software, Computer Vision**
 
 - How to reach me **sontungcodedao@gmail.com**
 
@@ -18,6 +18,12 @@
 <h3 align="left">Skills, Languages, and Technologies</h3>
 <p align="left">
 
+- Robotics:
+
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
+<a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
+
+
 - Languages:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -26,12 +32,12 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
 <a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="Matlab.png" alt="matlab" width="40" height="40"/> </a>
 
 - Firmware:
 
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
-<a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a> <img src="mcu.png" alt="microcontroller" width="40" height="40"/> </a>
 <a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">_<img src="esp32.png" alt="esp32" width="40" height="40"/>_</a>
