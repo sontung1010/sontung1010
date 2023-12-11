@@ -2,9 +2,9 @@
 <h3 align="center">M.Sc. ECE - Robotics candidate</h3>
 
 
-- I am a Research Assistant at the [ROAHM Lab of University of Michigan, Ann Arbor](https://www.roahmlab.com/)
+- I am a Research Assistant of the [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/) at University of Michigan, Ann Arbor
 
-- All of my projects are available at [Portfolio](https://www.dropbox.com/scl/fo/0xw4jj6wgoqnwkt7s52gx/h?rlkey=olvnlpnuxm5r7crbx4gn53lwq&dl=0)
+- All of my projects are available at [Portfolio](https://1drv.ms/f/s!ApIYI3z8Pn-niL4dIx4A6so_xTdziw?e=mUWXxF)
 
 - Ask me about **Robotics, Embedded Systems, Control Systems, Embedded Software, Computer Vision**
 
@@ -34,7 +34,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="Matlab.png" alt="matlab" width="40" height="40"/> </a>
 
 - Firmware:
