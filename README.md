@@ -4,9 +4,9 @@
 
 - I am a Research Assistant of the [ROAHM Lab](https://www.roahmlab.com/) and [UM Field Robotics Group](https://fieldrobotics.engin.umich.edu/) at University of Michigan, Ann Arbor
 
-- All of my projects are available at [Portfolio](https://1drv.ms/f/s!ApIYI3z8Pn-niL4dIx4A6so_xTdziw?e=mUWXxF)
+- All of my projects are available at [Portfolio](sontung1010.github.io)
 
-- Ask me about **Robotics, Embedded Systems, Control Systems, Embedded Software, Computer Vision**
+- Ask me about **Robotics, Embedded Software, Computer Vision**
 
 - How to reach me **sontungcodedao@gmail.com**
 
