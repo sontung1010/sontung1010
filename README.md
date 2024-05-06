@@ -6,7 +6,7 @@
 
 - All of my projects are available at [Portfolio](https://sontung1010.github.io/)
 
-- Ask me about **Robotics, Embedded Software, Computer Vision**
+- Ask me about **Robotics and Embedded Software**
 
 - How to reach me **sontungcodedao@gmail.com**
 
@@ -18,10 +18,11 @@
 <h3 align="left">Skills, Languages, and Technologies</h3>
 <p align="left">
 
-- Robotics:	ROS, Rviz, Gazebo, OpenCV, PyTorch, TensorFlow, UNet, PointNet, CUDA, TensorRT
-- Software:	C, C++, Python, Linux, Bash/Shell Scripting, Vim, Git, Debugger IDE, Docker, Google Colab, MATLAB, Simulink
-- Hardware: Microcontroller, FPGA, Verilog, x86, arch, ARM, RISC-V, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
-- CAD:	    SolidWorks, 3D Printer, Ansys
+- Robotics: ROS, ROS2, Simulation (Rviz, Gazebo), Sensor Integration (LIDAR, Camera, IMU), SLAM, Machine Learning (PyTorch, TensorFlow), Control Systems (PID, MATLAB, Simulink), Computer Vision (OpenCV)
+- Software: Python, C++, C, Linux, Bash/Shell Scripting, Git, Debugger, Docker
+- Hardware: Microcontrollers, ARM, GPIO, ADC, PWM, Timer, ISR, RTOS, CAN, I2C, SPI, USART, USB
+- CAD: SolidWorks, 3D Printing, ANSYS FEA
+
 
 
 </p>
