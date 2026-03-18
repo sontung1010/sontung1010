@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tung Do</h1>
 <h3 align="center">Senior Humanoid Robotics Engineer | Robotics & AI Researcher</h3>
 
+
 <p align="center">
-Robotics engineer specializing in humanoid locomotion, control systems, and reinforcement learning.  
-My work focuses on control-based robotics, model-based reinforcement learning, and perception-aware locomotion for humanoid robots.
+<a href="https://sontung1010.github.io/" target="blank"><strong>Portfolio</strong></a> •
+<a href="https://www.linkedin.com/in/tung-do-534525231/" target="blank">LinkedIn</a> •
+<a href="https://scholar.google.com/citations?user=UkNYB_QAAAAJ&hl=en" target="blank">Google Scholar</a>
 </p>
 
----
 
 ## 🚀 About Me
 
 - 🤖 **Senior Humanoid Robotics Engineer & Technical Project Manager** at **VINMOTION**
 - 🎓 **M.Sc. in Electrical and Computer Engineering (Robotics)** — University of Michigan, Ann Arbor
 - 🏆 **Valedictorian** — California State Polytechnic University, Pomona
-- 🔬 Research in **robot learning, world models, and autonomous systems**
 
-My work focuses on bridging **model-based control and learning-based approaches** for robust humanoid robot behavior.
-
----
 
 ## 🔬 Current Research Focus
 
@@ -28,79 +25,27 @@ My work focuses on bridging **model-based control and learning-based approaches*
 - **Model Predictive Control (MPC) for dynamic locomotion**
 - **Sim-to-real transfer for large-scale humanoid systems**
 
----
-
-## ⭐ Featured Work
-
-### Humanoid Locomotion Control
-Development of dynamic locomotion controllers for humanoid robots using **Convex Model Predictive Control and whole-body optimization**, enabling balance stabilization and push recovery.
-
-### Sim-to-Real Humanoid Simulation Framework
-Designed a **MuJoCo-based simulation framework** supporting humanoid platforms with up to **32 DoF**, enabling rapid experimentation and sim-to-real policy transfer.
-
-### Autonomous Maritime Robot Navigation
-Developed perception and navigation algorithms for **autonomous unmanned surface vehicles (USV)** using SLAM, multimodal sensor fusion, and trajectory planning.
-
----
-
-## 📚 Publications
-
-**Lucid Dreamer: Multimodal World Model for Zero-Shot Policy Transfer in Multi-Agent Autonomous Racing**  
-Submitted to **IEEE International Conference on Robotics and Automation (ICRA 2025)**
-
-**Intelligent Navigation of Autonomous Maritime Robots**  
-(In preparation)
-
-📖 Google Scholar  
-https://scholar.google.com/citations?user=UkNYB_QAAAAJ&hl=en
-
----
-
-## 🌐 Portfolio
-
-Explore my robotics projects and technical work:
-
-🔗 https://sontung1010.github.io/
-
----
-
-## 🧠 Research Interests
-
-- Humanoid Robotics
-- Model-Based Reinforcement Learning
-- Loco-Manipulation
-- Perceptive Locomotion
-- Whole-body Control
-- Sim-to-Real Transfer
-- Autonomous Systems
-
----
 
 ## 🛠 Skills & Technologies
 
-### Robotics
-ROS • ROS2 • Gazebo • RViz • MuJoCo • SLAM • Robot Control • Motion Planning
+### Robotics & Control
+Whole-Body Control • Model Predictive Control (MPC) • Robot Dynamics • Kinematics • Trajectory Optimization • Locomotion Control • State Estimation • Sensor Fusion
 
-### AI / Machine Learning
-PyTorch • TensorFlow • Reinforcement Learning • Computer Vision • U-Net
+### Reinforcement Learning & AI
+Model-Based Reinforcement Learning • Loco-Manipulation Learning • Perceptive Locomotion • Deep Reinforcement Learning • Computer Vision • Multimodal Learning
 
-### Programming
-C++ • Python • C • MATLAB • Linux • Bash • Docker • Git
+### Robotics Frameworks & Simulation
+ROS • ROS2 • MuJoCo • Gazebo • RViz • URDF • SLAM • Simulation-to-Real Transfer
 
-### Embedded Systems
-STM32 • PX4 • Nvidia Jetson • Raspberry Pi • CAN • SPI • I2C • UART
+### Programming & Systems
+C++ • Python • C • MATLAB • Linux • Bash • Docker • Git • Debugging & Performance Optimization
 
-### Mechanical / Simulation
-SolidWorks • ANSYS • URDF • 3D Printing
+### Embedded Systems & Hardware
+Nvidia Jetson • STM32 • CAN • SPI • I2C • UART • GPIO • PWM
 
----
+### Mechanical Design & Robot Modeling
+SolidWorks • Robot Modeling • 3D Printing
 
-## 🎤 Talks
-
-**Next-Gen Robotics Symposium: Bridging Technology, Health, and Sustainability**  
-Invited Speaker — VinUniversity, Hanoi (2026)
-
----
 
 ## 📫 Connect with Me
 
@@ -108,13 +53,16 @@ Invited Speaker — VinUniversity, Hanoi (2026)
 <a href="https://www.linkedin.com/in/tung-do-534525231/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
+<a href="https://scholar.google.com/citations?user=UkNYB_QAAAAJ&hl=en" target="blank">
+<img align="center" src="./assets/google-scholar.svg" alt="Google Scholar" height="30" width="40"/>
+</a>
+<a href="mailto:sontungcodedao@gmail.com" target="blank">
+<img align="center" src="./assets/email.svg" alt="Email" height="30" width="40"/>
+</a>
 </p>
 
-📧 Email: **sontungcodedao@gmail.com**
 
----
-
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" />
@@ -122,4 +70,4 @@ Invited Speaker — VinUniversity, Hanoi (2026)
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&locale=en" />
-</p>
+</p> -->
